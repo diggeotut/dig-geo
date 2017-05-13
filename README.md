@@ -3,7 +3,7 @@
 - Im Ordner *_pages* befinden sich die statischen Seiten (die auch in der Navigationsleiste anwählbar sind).
 - Im Ordner *_posts* befinden sich Ankündigungen und Berichte. Um einen neuen Post zu verfassen sollte auch das Format des Dateinamens (YYY-MM-DD-titel-mit-bindestrichen.md) eingehalten werden.
 - Bilder können in den Ordner *bilder* hochgeladen und in den Texten verlinkt werden.
-
+ca
 # Für schnelle kleine Änderungen
 
 1. Einen GitHub Account erstellen / einloggen
